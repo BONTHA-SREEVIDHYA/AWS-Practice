@@ -1,0 +1,11 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: "My First template to create a EC2"
+Resources:
+    MyEC2Instance:
+      Type: "AWS::EC2::Instance"
+      Properties:
+        ImageId: "ami-0fa3fe0fa7920f68e"
+        InstanceType: "t3.micro"
+
+
+        
