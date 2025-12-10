@@ -53,6 +53,9 @@ Codepipeline:
 
 Add source -- github repo 
 Add codebuild -- your codebuild name 
+Allow hooks so that pipeline will be triggered when ever there is change in github repo automatically 
+          <img width="1919" height="751" alt="image" src="https://github.com/user-attachments/assets/3aab8d96-024c-4336-b509-c83011fa581e" />
+
 
           
           
